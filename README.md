@@ -12,7 +12,7 @@ I'm a full stack developer looking to improve my skills
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP
+Javascript, HTML, CSS, PHP, React, C, Python 
 
 # zuriprojects
 
